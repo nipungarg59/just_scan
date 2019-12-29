@@ -29,11 +29,11 @@ dependencies:
   shared_preferences: ^0.5.3+1
   validators: ^2.0.0
   webview_flutter: ^0.3.13
+  flutter_custom_tabs: ^0.6.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
